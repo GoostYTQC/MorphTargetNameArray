@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MorphNameArray\\Module.MorphNameArray.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MorphNameArray\\MorphNameArray.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MorphNameArray\\MorphNameArrayBPLibrary.cpp.obj"
+	]
+}
